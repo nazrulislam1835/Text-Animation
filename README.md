@@ -13,6 +13,9 @@ Each letter bounces smoothly with a 3D shadow illusion.
 ## 📂 Project Structure
 
 Text-Animation/
+
 ├── index.html # Main HTML file
+
 ├── style.css # CSS for animation and styling
+
 └── README.md # Project documentation
